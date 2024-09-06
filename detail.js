@@ -97,3 +97,4 @@ function displayPlantDetails(plant) {
         });
     }
 }
+
